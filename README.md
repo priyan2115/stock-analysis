@@ -1,3 +1,3 @@
-###stock Analysis###
+#STOCK ANALYSIS
 
 stock-analysis 

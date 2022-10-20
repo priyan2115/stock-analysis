@@ -14,7 +14,6 @@ stock-analysis
 ## 2) comparision of Stock performance between year 2017 and 2018 through the Inagies and example of code as well as compile time of the script.
 
 ######  **Execution Timing**
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ###### **Stock Value Comparision**
 ###### **Drastic change in stocks**
 ###### **summery of Comaprision**

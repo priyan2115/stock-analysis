@@ -15,7 +15,9 @@ stock-analysis
 
 ######  **Execution Timing**
 **Images**
-![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
+
 ###### **Stock Value Comparision**
 ###### **Drastic change in stocks**
 ###### **summery of Comaprision**

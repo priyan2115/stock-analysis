@@ -14,6 +14,8 @@ stock-analysis
 ## 2) comparision of Stock performance between year 2017 and 2018 through the Inagies and example of code as well as compile time of the script.
 
 ######  **Execution Timing**
+**Images**
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ###### **Stock Value Comparision**
 ###### **Drastic change in stocks**
 ###### **summery of Comaprision**

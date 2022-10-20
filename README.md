@@ -13,14 +13,14 @@ stock-analysis
 
 ## 2) comparision of Stock performance between year 2017 and 2018 through the Inagies and example of code as well as compile time of the script.
 
-######  Execution Timing
-###### Stock Value Comparision
-###### Drastic change in stocks
-###### summery of Comaprision
+######  **Execution Timing**
+###### **Stock Value Comparision**
+###### **Drastic change in stocks**
+###### **summery of Comaprision**
 
 ## 3) summary
-  ## 1)Advantages and Disadvantages of refactoring code
-  ## 2)How do these Pros and Cons apply to refactoring the original VBA Script
+  ###### **1)Advantages and Disadvantages of refactoring code**
+  ###### **2)How do these Pros and Cons apply to refactoring the original VBA Script**
 
 
 

@@ -39,11 +39,11 @@ stock-analysis
 ## 3) summary
   ###### **1)Advantages and Disadvantages of refactoring code**
       As per my point of view there is a advanatages and disadvantages of refractoring code
-      ######**Advantages**
+     **Advantages**
            - From the refrectoring code we should undertand method of code. We can easily figure out about the syntax and functions which we have to apply for the desire result.
            - Refectoring code clear our mind if we have any confusion about the code in our mind. 
            
-      ######**Disadvantages
+      **Disadvantages**
       I think because of the refactoring script we only think under the limit.it sets the boundry towards the code in our mind so we can not think beyond that sometimes.
       otherwise , refrectoring code is very helpfull for new commers and the people who coming outside the stream. 
       

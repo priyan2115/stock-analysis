@@ -20,7 +20,7 @@ stock-analysis
 ![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
  when we perform execution on code again and again the both code took same time to execute the code. The following Images are shows same execution timing for both.
  **images**![2017 example sametime](resources/2017 example sametime.png)
- ![2017 example sametime](resources/2017 example sametime.png)
+ 
  ![2018 example sametime](resources/2018 example sametime.png)
  
 
@@ -29,10 +29,10 @@ stock-analysis
       ![2018 example sametime](resources/2018 example sametime.png)
       
      On the other side if we look forward to year 2017 only **TERP's** return values are dropped down in **negative numbers**, rest of the tickers return values are under the positive values category.
-     ![2017 example sametime](resources/2017 example sametime.png)
- 
+    
 ###### **Drastic change in stocks**
             There is a drastic change for the ticker run over the year. As we can see it **raised** from **5.5% to 84.0% ** which is a huge changes in comapare to the year 2017
+            ![2017 example sametime](resources/2017 example sametime.png)
 ###### **summery of Comaprision**
       so from the comparision of both years data the year **2017** looks more `rgb(9, 105, 218) successfull` for the stock market in compare to the year **2018**.
 ## 3) summary

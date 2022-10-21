@@ -35,9 +35,20 @@ stock-analysis
             ![2017_example_sametime](resources/2017_example_sametime.png)
 ###### **summery of Comaprision**
       so from the comparision of both years data the year **2017** looks more `rgb(9, 105, 218) successfull` for the stock market in compare to the year **2018**.
+      
 ## 3) summary
   ###### **1)Advantages and Disadvantages of refactoring code**
+      As per my point of view there is a advanatages and disadvantages of refractoring code
+      ######**Advantages**
+           - From the refrectoring code we should undertand method of code. We can easily figure out about the syntax and functions which we have to apply for the desire result.
+           - Refectoring code clear our mind if we have any confusion about the code in our mind. 
+           
+      ######**Disadvantages
+      I think because of the refactoring script we only think under the limit.it sets the boundry towards the code in our mind so we can not think beyond that sometimes.
+      otherwise , refrectoring code is very helpfull for new commers and the people who coming outside the stream. 
+      
   ###### **2)How do these Pros and Cons apply to refactoring the original VBA Script**
+      So we can take much advantages from the refrectoring code as we can. And for cons, we also hace to think beyond the limit of the refrectoring code.
 
 
 

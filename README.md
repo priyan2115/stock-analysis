@@ -14,10 +14,13 @@ stock-analysis
 ## 2) comparision of Stock performance between year 2017 and 2018 through the Inagies and example of code as well as compile time of the script.
 
 ######  **Execution Timing**
-      The original code is executing more fatser than the refrector code. But sometimes 
+      The original code is executing more fatser than the refrector code. The images are below which shows the execution time.
 **Images**
 ![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
+ when we perform execution on code again and again the both code took same time to execute the code. The following Images are shows same execution timing for both.
+ **images**
+ ![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
 
 ###### **Stock Value Comparision**
 ###### **Drastic change in stocks**

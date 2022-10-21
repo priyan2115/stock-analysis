@@ -20,7 +20,7 @@ stock-analysis
 ![VBA_Challenge_2018](resources/VBA_Challenge_2018.png)
  when we perform execution on code again and again the both code took same time to execute the code. The following Images are shows same execution timing for both.
  **images**
- ![VBA_Challenge_2017](resources/VBA_Challenge_2017.png)
+ ![2017 example sametime](2017 example sametime.png)
 
 ###### **Stock Value Comparision**
 ###### **Drastic change in stocks**
